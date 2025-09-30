@@ -1,5 +1,7 @@
 <p align="center">
- <img width="768" height="441" alt="gith" src="https://github.com/user-attachments/assets/fb0bffc4-cef6-4f61-97ee-e6d63845830f" />
+ 
+ 
+<img width="768" height="622" alt="nn" src="https://github.com/user-attachments/assets/199711b0-6d68-49d9-bc49-1b4849067842" />
 
 </p>
 
