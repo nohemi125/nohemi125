@@ -1,3 +1,6 @@
+
+<img width="2000" height="600" alt="Dark Blue Pixel Retro Digital Marketing LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/d1141645-2074-4eba-becc-a59aef69d5e4" />
+
 <h1 align="center">Hi , I'm hohemi morelo <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;UI%2FUX+Designer;creative%20|%20Coder%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
